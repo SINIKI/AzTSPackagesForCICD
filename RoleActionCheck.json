@@ -1,0 +1,14 @@
+{
+  "RoleActionItem": [
+    {
+      "ActionName": "ViewSubscription",
+      "Roles": [ "Owner", "Contributor", "ServiceAdministrator", "CoAdministrator", "AccountAdministrator", "ServiceAdministrator;AccountAdministrator", "CoAdministrator;AccountAdministrator", "AccountAdministrator;ServiceAdministrator", "Security Reader", "Security Admin" ]
+    }
+  ],
+  "AdminActionItem": [
+    {
+      "ActionName": "ImpersonateUser",
+      "AdminUserIds": [ ]
+    }
+  ]
+}
